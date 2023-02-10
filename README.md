@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/SherWinnDEV">
-	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	<img src="https://scontent.fvii1-1.fna.fbcdn.net/v/t39.30808-6/329244569_1341861249981773_509139375039242599_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=IkS3YfVThAAAX-Tdv2K&_nc_ht=scontent.fvii1-1.fna&oh=00_AfAd1KXBTrFB8mEvEMsK_trLFUkYiRyK38U5yIei3-elsw&oe=63EAB1D3" width = "200" alt="TNT">
 	</a>
 </p>
 
@@ -46,19 +46,19 @@ namespace SherWinn
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
   </a>
   
-  <a href="mailto:ngoctienTNT.vn@gmail.com">
+  <a href="mailto:mrtrungbook@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
   </a>
 	
-  <a href="https://www.instagram.com/ngoctien.tnt/">
+  <a href="">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
   </a>
   
-  <a href="https://www.tiktok.com/@ngoctien_tnt/">
+  <a href="https://www.tiktok.com/@mrtrungbook?lang=vi-VN">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/c/ThienLongTNT">
+  <a href="https://www.youtube.com/channel/UCWcnqQQZ6H3R5_sSCUFPqiA">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
   </a>
 </p>
