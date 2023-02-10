@@ -136,21 +136,21 @@ namespace SherWinn
 
 ## <p align="center">Visitor's count :eyes:</p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SherWinnDEV}/count.svg" alt="SherWinnDEV :: Visitor's Count" /></p>
 
 ## <p align="center">GitHub Profile Trophy 🏆</p>
 
 <p align='center'>
-<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
+<img src="https://github-profile-trophy.vercel.app/?username=SherWinnDEV&theme=tokyonight&row=2&column=4">
 </p>
 
 ## <p align="center">Top langs :tongue:</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
-##<p align="center"> 📊GitHub Stats :
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SherWinnDEV&langs_count=10&theme=tokyonight&layout=compact" alt="SherWinnDEV :: Top Langs" /></p>
+# 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=SherWinnDEV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SherWinnDEV&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SherWinnDEV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SherWinnDEV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
 
@@ -165,7 +165,7 @@ namespace SherWinn
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
-<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/SherWinnDEV/SherWinnDEV/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
