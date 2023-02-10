@@ -155,21 +155,21 @@ namespace SherWinn
 ## <p align="center">Repository pin 📌</p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
+<a href="">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/TodoList2021">
+<a href="">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
 
 <p align="center">	
-<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
+<a href="">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 	
-<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
+<a href="">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
 </a>
 </p>
