@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**SherWinnDEV/SherWinnDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+namespace SherWin
+{
+    class SherWinnDEV
+    {
+        static void Main(string[] args)
+        {
+            string Name = "Nguyễn Đức Trung";
+            string Age = "2002";
+            string Gender = "Male";
+            string Address = "Nghệ An, Việt Nam";
+            string University = "Trường Đại học Vinh";
+            string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
+            string FamousQuotes = "Tôi biết bạn rất tốt, nhưng tôi cũng không kém cạnhh";
+        }
+    }
+}
