@@ -1,30 +1,196 @@
-# 💫About Me :
-namespace SherWin
+# <p align="center">Trần Ngọc Tiến</p>
+
+<p align="center">
+	<a href="https://github.com/ngoctienTNT">
+	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
+	</a>
+</p>
+
+<h2 align="center">About me</h2>
+
+```C#
+namespace TNT
 {
-    class SherWinnDEV
+    class ngoctienTNT
     {
         static void Main(string[] args)
         {
-            string Name = "Nguyễn Đức Trung";
+            string Name = "Trần Ngọc Tiến";
             string Age = "2002";
             string Gender = "Male";
-            string Address = "Nghệ An, Việt Nam";
-            string University = "Trường Đại học Vinh";
+            string Address = "Khánh Hòa, Việt Nam";
+            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
             string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Tôi biết bạn rất tốt nhưng tôi cũng không kém cạnh";
+            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
         }
     }
 }
+```
 
-## 🌐Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100035786525352) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@mrtrungbook?lang=vi-VN) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCWcnqQQZ6H3R5_sSCUFPqiA) 
+## <p align="center">You can reach me at 🌹</p>
 
-# 💻Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=SherWinnDEV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SherWinnDEV&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SherWinnDEV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.facebook.com/ngoctien.TNT">
+    <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
+  </a>
+	
+  <a href="https://github.com/ngoctienTNT">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
+  </a>
+  
+  <a href="https://dev.to/ngoctientnt">
+    <img src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="DevTo" height="30" width="30">
+  </a>
+	
+  <a href="https://www.linkedin.com/in/ngoctientnt/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Linkedin" height="30" width="30">
+  </a>
+  
+  <a href="mailto:ngoctienTNT.vn@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google" height="30" width="30">
+  </a>
+	
+  <a href="https://www.instagram.com/ngoctien.tnt/">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" height="30" width="30">
+  </a>
+  
+  <a href="https://www.tiktok.com/@ngoctien_tnt/">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tiktok-icon.svg" alt="TikTok" height="30" width="30">
+  </a>
+  
+  <a href="https://www.youtube.com/c/ThienLongTNT">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube" height="30" width="30">
+  </a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=SherWinnDEV&icon=8&color=6)](https://visitcount.itsvg.in)
+## <p align="center">What I use :alien:</p>
+
+<table align="center">
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+	<a href="https://devdocs.io/cpp/">
+		<span>𝗖++</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
+	 </a>
+      </td>
+      <td width="20%" align="center">
+	 <a href="https://docs.microsoft.com/dotnet/csharp/">
+		<span>𝗖#</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+	 </a>
+      </td>
+      <td width="20%" align="center">
+	<a href="https://docs.oracle.com/java/">
+		<span>𝗝𝗮𝘃𝗮</span><br><br><br>
+		<img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+	 </a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://dart.dev/guides">
+        <span>𝗗𝗮𝗿𝘁</span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg">
+		</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://docs.python.org/3/">
+        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+	      </a>
+      </td>
+    </tr>
+    <tr valign="top">
+	<td width="20%" align="center">
+		<a href="https://code.visualstudio.com/docs">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
+		</a>
+      </td>
+	<td width="20%" align="center">
+		<a href="https://docs.microsoft.com/visualstudio/ide/?view=vs-2019">
+        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">
+		</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://developer.android.com/docs">
+        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
+	      </a>
+      </td>
+	    <td width="20%" align="center">
+	<a href="https://docs.flutter.dev/">
+		<span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
+		<img height="64px" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg">
+	</a>
+      </td>
+      <td width="20%" align="center">
+	      <a href="https://git-scm.com/doc">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+	      </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+## <p align="center">Visitor's count :eyes:</p>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{ngoctienTNT}/count.svg" alt="ngoctienTNT :: Visitor's Count" /></p>
+
+## <p align="center">GitHub Profile Trophy 🏆</p>
+
+<p align='center'>
+<img src="https://github-profile-trophy.vercel.app/?username=ngoctienTNT&theme=tokyonight&row=2&column=4">
+</p>
+
+## <p align="center">Top langs :tongue:</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngoctienTNT&langs_count=10&theme=tokyonight&layout=compact" alt="ngoctienTNT :: Top Langs" /></p>
+
+## <p align="center">Profile stats :musical_keyboard:</p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ngoctienTNT&show_icons=true&theme=tokyonight" alt="ngoctienTNT :: Profile Stats" /></p>
+
+## <p align="center">Repository pin 📌</p>
+
+<p align="center">	
+<a href="https://github.com/ngoctienTNT/GiveLoveTNT">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=GiveLoveTNT&theme=tokyonight" alt="ngoctienTNT" />
+</a>
+	
+<a href="https://github.com/ngoctienTNT/TodoList2021">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=TodoList2021&theme=tokyonight" alt="ngoctienTNT" />
+</a>
+</p>
+
+<p align="center">	
+<a href="https://github.com/ngoctienTNT/ILoveNgocTien" margin="100">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ILoveNgocTien&theme=tokyonight" alt="ngoctienTNT" />
+</a>
+	
+<a href="https://github.com/ngoctienTNT/ngoctien.TNT">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=ngoctienTNT&repo=ngoctien.TNT&theme=tokyonight" alt="ngoctienTNT" />
+</a>
+</p>
+
+## <p align="center">Github Contributions 📈</p>
+<br>
+<p align='center'>
+<img src="https://activity-graph.herokuapp.com/graph?username=ngoctienTNT&theme=react-dark&hide_border=true">
+<p>
+
+<hr>
+<br>
+
+## <p align="center">Just a snake eating my contributions 🐍</p>
+<p align='center'>
+<img src="https://github.com/ngoctienTNT/ngoctienTNT/blob/output/github-contribution-grid-snake.svg">
+</p>
+
+<hr>
+<br>
+
+##
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
