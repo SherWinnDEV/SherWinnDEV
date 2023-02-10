@@ -1,7 +1,7 @@
-# <p align="center">Trần Ngọc Tiến</p>
+# <p align="center">Nguyễn Đức Trung</p>
 
 <p align="center">
-	<a href="https://github.com/ngoctienTNT">
+	<a href="https://github.com/SherWinnDEV">
 	<img src="https://avatars.githubusercontent.com/u/79617804" width = "200" alt="TNT">
 	</a>
 </p>
@@ -9,19 +9,19 @@
 <h2 align="center">About me</h2>
 
 ```C#
-namespace TNT
+namespace SherWinn
 {
-    class ngoctienTNT
+    class SherWinnDEV
     {
         static void Main(string[] args)
         {
-            string Name = "Trần Ngọc Tiến";
+            string Name = "Nguyễn Đức Trung";
             string Age = "2002";
             string Gender = "Male";
-            string Address = "Khánh Hòa, Việt Nam";
-            string University = "Trường Đại học Công nghệ Thông Tin - UIT";
+            string Address = "Nghệ An, Việt Nam";
+            string University = "Trường Đại Học Vinh";
             string Skills = "C, C++, C#, Java, Dart, Python, HTML, JavaScript";
-            string FamousQuotes = "Chỉ có sự thành công mới định nghĩa mày là ai!";
+            string FamousQuotes = "Tôi biết bạn rất tốt nhưng tôi cũng không kém cạnhh!";
         }
     }
 }
@@ -30,11 +30,11 @@ namespace TNT
 ## <p align="center">You can reach me at 🌹</p>
 
 <p align="center">
-  <a href="https://www.facebook.com/ngoctien.TNT">
+  <a href="https://www.facebook.com/profile.php?id=100035786525352">
     <img src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Facebook" height="30" width="30">
   </a>
 	
-  <a href="https://github.com/ngoctienTNT">
+  <a href="https://github.com/SherWinnDEV">
     <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" height="30" width="30">
   </a>
   
