@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/SherWinnDEV">
-	<img src="[https://www.facebook.com/photo?fbid=1011055826763959&set=a.105341447335406](https://www.facebook.com/photo?fbid=1011055826763959&set=a.105341447335406)" width = "200" alt="NDT">
+	<img src="https://www.facebook.com/photo?fbid=1011055826763959&set=a.105341447335406" width = "200" alt="NDT">
 	</a>
 </p>
 
